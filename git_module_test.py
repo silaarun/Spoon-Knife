@@ -1,3 +1,3 @@
 class HelloWorld():
 	def say_hello(self):
-		print('Hello World 2')
+		print('Hello World 3')
